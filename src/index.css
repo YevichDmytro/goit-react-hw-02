@@ -1,0 +1,16 @@
+body {
+  font-family: 'Inter', sans-serif;
+  line-height: 1.5;
+  background-color: snow;
+}
+
+h1,
+p {
+  margin: 0;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
